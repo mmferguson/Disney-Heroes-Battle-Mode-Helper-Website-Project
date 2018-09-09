@@ -1,0 +1,185 @@
+body {
+	background-color:#87daf9;
+	color:#ad47c4;
+	
+}
+
+.container-fluid .cover-container{
+	background-color:#191e26;
+	
+}
+.container-fluid h3, nav{
+	padding:0;
+	margin:0;
+	border:0;
+	background-color:#191e26;
+}
+
+body a{
+	text-decoration: none;
+	color:white;
+	
+	
+}
+header a{
+	font-size: 24px;
+}
+header a:hover{
+	color:#87daf9;
+	font-weight: bold;
+}
+footer {
+	padding-top: 1%;
+	color:#87daf9;
+	
+}
+.main-content{
+	background-color:black;
+}
+nav{
+	background-color:black ;
+}
+
+
+.herocard img{
+	width:10px;
+	height:10px;
+}
+a.nav-link.active{
+	color:#87daf9;
+}
+.nav-separation{
+	background-color:#ad47c4;
+	margin:1px;
+}
+.card-text{
+	font-size: 20px;
+}
+.card-text-top{
+	color:#34528e;
+	font-weight: bold;
+	font-size: 20px;
+}
+hr{
+	margin:0px;
+	padding:0px;
+
+	
+}
+button.btn.btn-sm.btn-outline-secondary{
+	margin-top: 15px;
+	color:white;
+	
+}
+button.btn.btn-sm.btn-outline-secondary:hover{
+	background-color:#f9a4bc;
+}
+
+a.second-nav{
+	margin:300px;
+}
+.card.mb-4.box-shadow{
+	background-color:black;
+	color:#87daf9;
+}
+body.album.py-5.bg-light{
+	background-color:#f9a4bc;} 
+p.card-content{
+	font-weight: bold;
+	font-size: 20px;
+
+
+}
+span.skill-power{
+	color:#2d59c6;
+}
+span.skill-level{
+	color:#40890c;
+}
+span.basic-damage{
+	color:#d69826;
+}
+
+h3.card-title{
+	color:white;
+	margin-bottom: 20px;
+}
+p.card-content.left, p.card-content.small.left{
+	margin:0 20px 0 20px;
+	
+	text-align: left;
+}
+p.card-content.small{
+	font-size:16px;
+	color:#dbf5ff;
+	font-weight:normal;
+}
+img.card-img-top.friend{
+	padding-left:5px;
+	padding-right:5px;
+}
+hr.card-line{
+	background-color:#f9a4bc;
+}
+.white{
+	color:white;
+}
+.green{
+	color:#438e09;
+}
+.blue{
+	color:#1142c6;
+}
+.purple{
+	color:#ad47c4;
+}
+.light-blue{
+	color:#87daf9;
+}
+hr.card-line.black{
+	background-color: black;
+	padding-top: 20px;
+
+}
+img.badge-icon{
+	border-radius: 20px 20px 20px 20px; 
+}
+
+.section-label{
+	background-color: #191e26;
+	color:#ad47c4;
+}
+
+.box{
+	background-color: black;
+}
+.album{
+	background-color: #c0bbc1;
+}
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+.side-info p{
+	text-align: left;
+	padding:10px 20px 0px 10px;
+
+}
+.second-nav button{
+	background-color:black;
+	color:white;
+	border-color:black;
+	font-size: 24px;
+}
+ .second-nav button:focus{
+	box-shadow:none;
+	outline-color: black;
+}
+.side-info.vertically-centered.title{
+	padding-top:50px;
+	text-align: center;
+	font-size:25px;
+}
+button.active{
+	color:#87daf9;
+}
